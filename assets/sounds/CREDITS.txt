@@ -1,0 +1,5 @@
+background_music.ogg
+  "Children's March Theme" by Cleyton Kauffman
+  https://opengameart.org/content/childrens-march-theme
+  License: CC0 1.0 (public domain) - no attribution required.
+  Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman

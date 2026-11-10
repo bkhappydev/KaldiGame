@@ -1,0 +1,124 @@
+name: kaldi_app
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.1+6
+
+environment:
+  sdk: ^3.7.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  path: ^1.9.1
+  sqflite: ^2.4.2
+  share_plus: ^11.0.0
+  audioplayers: ^6.5.0
+  url_launcher: ^6.3.1
+  auto_size_text: ^3.0.0
+  shared_preferences: ^2.5.3
+  flutter_staggered_animations: ^1.1.1
+  flutter_tts: ^4.2.3
+  in_app_update: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/database/
+    - assets/images/
+    - assets/sounds/
+    - assets/items/
+    - assets/3d/
+    - assets/data/
+    - assets/credits/
+    - assets/items/1/
+    - assets/items/2/
+    - assets/items/3/
+    - assets/items/4/
+    - assets/items/5/
+    - assets/items/6/
+    - assets/items/7/
+    - assets/items/8/
+    - assets/items/9/
+    - assets/items/10/
+    - assets/items/11/
+    - assets/items/12/
+    - assets/items/13/
+    - assets/items/14/
+    - assets/items/15/
+    - assets/items/16/
+    - assets/items/17/
+    - assets/items/18/
+    - assets/items/19/
+    - assets/items/20/
+    - assets/items/21/
+    - assets/items/22/
+    - assets/items/23/
+    - assets/items/24/
+    - assets/items/25/
+    - assets/items/26/
+    - assets/items/27/
+    - assets/items/28/
+    - assets/items/29/
+    - assets/items/30/
+    - assets/items/31/
+    - assets/items/32/
+    - assets/items/33/
+    - assets/items/34/
+    - assets/items/35/
+    - assets/items/36/
+    - assets/items/37/
+    - assets/items/38/
+    - assets/items/39/
+    - assets/items/40/
+    - assets/items/41/
+    - assets/items/42/
+    - assets/items/43/
+    - assets/items/44/
+    - assets/items/45/
+    - assets/items/46/
+    - assets/items/47/
+    - assets/items/48/
+    - assets/items/49/
+    - assets/items/50/
+    - assets/items/51/
+    - assets/items/52/
+    - assets/items/53/
+    - assets/items/54/
+    - assets/items/55/
+    - assets/items/56/
+    - assets/items/57/
+    - assets/items/58/
+    - assets/items/59/
+    - assets/items/60/
+
+  fonts:
+    - family: Menbere
+      fonts:
+        - asset: fonts/Menbere/Menbere-VariableFont_wght.ttf
+    - family: Fredoka
+      fonts:
+        - asset: fonts/Fredoka/Fredoka-Regular.ttf
+        - asset: fonts/Fredoka/Fredoka-Medium.ttf
+          weight: 500
+        - asset: fonts/Fredoka/Fredoka-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Fredoka/Fredoka-Bold.ttf
+          weight: 700
+    - family: LilitaOne
+      fonts:
+        - asset: fonts/LilitaOne/LilitaOne-Regular.ttf

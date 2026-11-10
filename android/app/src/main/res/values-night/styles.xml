@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shown while the app starts (before Android 12): coffee background
+         with the round Kaldi logo. Removed when Flutter draws its first frame. -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <!-- Behind the Flutter UI: the same coffee colour, so there is never a
+         white flash. -->
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <!-- The app draws its own focus ring for keyboard users; hide Android's
+             green outline around the whole Flutter view. -->
+        <item name="android:defaultFocusHighlightEnabled">false</item>
+    </style>
+</resources>

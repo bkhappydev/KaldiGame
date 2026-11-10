@@ -1,0 +1,1202 @@
+{
+ "1": {
+  "en": "You hold this little thing and sip hot coffee from it. What is it?",
+  "am": "ትኩስ ቡና የምንጠጣበት ትንሽ እቃ ነው። ምንድን ነው?"
+ },
+ "2": {
+  "en": "This clay pot with a long neck boils coffee on the fire, then pours it out. What is it?",
+  "am": "ረጅም አንገት ያለው የሸክላ ማሰሮ ነው፤ ቡና በእሳት ላይ ይፈላበታል። ምንድን ነው?"
+ },
+ "3": {
+  "en": "They are small and hard. Mum roasts them in a pan until they smell lovely, then grinds them. What are they?",
+  "am": "ትንንሽና ጠንካራ ናቸው። እናት በምጣድ ቆልታ ጥሩ መዓዛ ሲያወጡ ትወቅጣቸዋለች። ምንድን ናቸው?"
+ },
+ "4": {
+  "en": "Little coffee cups sit on top of this small wooden stand at a coffee ceremony. What is it?",
+  "am": "በቡና ስነ ስርዓት ላይ ትንንሽ ስኒዎች የሚቀመጡበት ትንሽ የእንጨት ጠረጴዛ ነው። ምንድን ነው?"
+ },
+ "5": {
+  "en": "Kaldi's goats danced after eating the little red berries of this plant. It grows in Ethiopia's green hills. What is it?",
+  "am": "የቃልዲ ፍየሎች የዚህን ተክል ቀይ ፍሬ በልተው ጨፈሩ። በኢትዮጵያ ተራሮች ላይ ያድጋል። ምንድን ነው?"
+ },
+ "6": {
+  "en": "A long, soft seat in the living room where the whole family can sit together. What is it?",
+  "am": "ቤተሰብ በሙሉ አብሮ የሚቀመጥበት ረጅምና ለስላሳ መቀመጫ ነው። ምንድን ነው?"
+ },
+ "7": {
+  "en": "You lie on it with a pillow and a blanket to sleep at night. What is it?",
+  "am": "ማታ በትራስና በብርድ ልብስ ተኝተን የምናድርበት ነው። ምንድን ነው?"
+ },
+ "8": {
+  "en": "A small, low seat with no back to lean on. What is it?",
+  "am": "ጀርባ የሌለው ዝቅተኛ ትንሽ መቀመጫ ነው። ምንድን ነው?"
+ },
+ "9": {
+  "en": "A flat board on the wall where we put books and toys. What is it?",
+  "am": "መጻሕፍትንና መጫወቻዎችን የምናስቀምጥበት፣ ግድግዳ ላይ ያለ ጠፍጣፋ ጣውላ ነው። ምንድን ነው?"
+ },
+ "10": {
+  "en": "A tall cupboard with doors where we hang our clothes. What is it?",
+  "am": "ልብሳችንን የምንሰቅልበት፣ በር ያለው ረጅም የቤት እቃ ነው። ምንድን ነው?"
+ },
+ "11": {
+  "en": "Its leaves are wrapped tight into a big round ball. We cook it with carrots. What is it?",
+  "am": "ቅጠሎቹ ተጠቅልለው እንደ ኳስ የሆነ አትክልት ነው። ከካሮት ጋር ይሰራል። ምንድን ነው?"
+ },
+ "12": {
+  "en": "It is long and thin, and when you bite it, your mouth feels hot and burning! What is it?",
+  "am": "ረጅምና ቀጭን ነው። ስትነክሰው አፍህ ያቃጥልሃል! ምንድን ነው?"
+ },
+ "13": {
+  "en": "We dig it out of the ground, then boil it or fry it to make chips. What is it?",
+  "am": "ከመሬት ውስጥ ተቆፍሮ ይወጣል፤ ተቀቅሎ ወይም ተጠብሶ ይበላል፤ ቺፕስም ይሰራበታል። ምንድን ነው?"
+ },
+ "14": {
+  "en": "It is soft and juicy, and turns red when ripe. We cut it into salad and sauce. What is it?",
+  "am": "ሲበስል ለስላሳና ጭማቂ የሞላበት ነው። ለሰላጣና ለወጥ እንጠቀምበታለን። ምንድን ነው?"
+ },
+ "15": {
+  "en": "It grows under the ground, and when you cut it, its juice stains your hands the colour of blood. What is it?",
+  "am": "ከመሬት ውስጥ ይወጣል። ስትቆርጠው ጭማቂው እጅህን የደም ቀለም ያስይዘዋል። ምንድን ነው?"
+ },
+ "16": {
+  "en": "Sweet and juicy, with one big flat seed inside. The juice runs down your chin! What is it?",
+  "am": "ጣፋጭና ጭማቂ የበዛበት ነው፤ ውስጡ አንድ ትልቅ ጠፍጣፋ ፍሬ አለ። ምንድን ነው?"
+ },
+ "17": {
+  "en": "It is soft and creamy but not sweet, with a big round seed in the middle. We spread it on bread. What is it?",
+  "am": "እንደ ቅቤ ለስላሳ ነው፤ ጣፋጭ አይደለም። መሃሉ ትልቅ ክብ ፍሬ አለው፤ ዳቦ ላይ ይቀባል። ምንድን ነው?"
+ },
+ "18": {
+  "en": "A small sweet fruit with tiny seeds on the outside and a little green leaf hat. What is it?",
+  "am": "ትንሽና ጣፋጭ ነው፤ ዘሮቹ ከውጭ ቆዳው ላይ ናቸው፤ አረንጓዴ ቅጠል ኮፍያ አለው። ምንድን ነው?"
+ },
+ "19": {
+  "en": "It is round and goes crunch when you bite it. It can be red or green. What is it?",
+  "am": "ክብ ነው፤ ስትነክሰው ቅርጥም ይላል። ቀይ ወይም አረንጓዴ ሊሆን ይችላል። ምንድን ነው?"
+ },
+ "20": {
+  "en": "Its skin is rough and spiky, with a crown of pointy leaves on top. Inside it is sweet. What is it?",
+  "am": "ቆዳው ሻካራና እሾሃማ ነው፤ ራሱ ላይ የሾሉ ቅጠሎች አሉት። ውስጡ ጣፋጭ ነው። ምንድን ነው?"
+ },
+ "21": {
+  "en": "Big, still water with land all around it. Tana in Bahir Dar is one. What is it?",
+  "am": "ዙሪያውን በመሬት የተከበበ፣ የማይፈስ ትልቅ ውሃ ነው። ጣና አንዱ ነው። ምንድን ነው?"
+ },
+ "22": {
+  "en": "Water that keeps flowing and flowing, far across the land. The Abay is one. What is it?",
+  "am": "ያለማቋረጥ ረጅም መንገድ የሚፈስ ውሃ ነው። ዓባይ አንዱ ነው። ምንድን ነው?"
+ },
+ "23": {
+  "en": "The biggest water in the world. It is salty, with huge waves and whales. What is it?",
+  "am": "በዓለም ላይ ትልቁ ውሃ ነው፤ ጨዋማ ነው፤ ትልልቅ ማዕበልና አሳነባሪዎች አሉበት። ምንድን ነው?"
+ },
+ "24": {
+  "en": "Clean, cool water that bubbles up out of the ground. People fill their jugs there. What is it?",
+  "am": "ከመሬት ውስጥ ፈልቆ የሚወጣ ንጹህና ቀዝቃዛ ውሃ ነው። ሰዎች እንስራቸውን ይሞሉበታል። ምንድን ነው?"
+ },
+ "25": {
+  "en": "Water drops from a high cliff and crashes down with a loud roar. Tis Issat is one. What is it?",
+  "am": "ከከፍተኛ ገደል ላይ እየጮኸ ወደ ታች የሚወርድ ውሃ ነው። ጢስ እሳት አንዱ ነው። ምንድን ነው?"
+ },
+ "26": {
+  "en": "The colour of ripe tomatoes and of blood. What colour is it?",
+  "am": "የበሰለ ቲማቲምና የደም ቀለም ነው። ምን ቀለም ነው?"
+ },
+ "27": {
+  "en": "The colour of fresh grass and the leaves on trees. What colour is it?",
+  "am": "የለምለም ሳርና የዛፍ ቅጠል ቀለም ነው። ምን ቀለም ነው?"
+ },
+ "28": {
+  "en": "Mix red paint and blue paint together and you get this colour. Eggplants have it. What colour is it?",
+  "am": "ቀይና ሰማያዊ ቀለም ሲቀላቀሉ የሚፈጠር አዲስ ቀለም ነው፤ ቀይም ሰማያዊም አይደለም። ምን ቀለም ነው?"
+ },
+ "29": {
+  "en": "The colour of the clear sky on a sunny day, and of the deep sea. What colour is it?",
+  "am": "ፀሐያማ ቀን ቀና ብለን ስናይ የምናየው ቀለም ነው፤ የባህርም ቀለም ነው። ምን ቀለም ነው?"
+ },
+ "30": {
+  "en": "The colour of ripe bananas and Meskel flowers. What colour is it?",
+  "am": "የበሰለ ሙዝና የአደይ አበባ ቀለም ነው። ምን ቀለም ነው?"
+ },
+ "31": {
+  "en": "We cook it into tibs and wot, or eat it as kitfo. It comes from cows, sheep and goats. What is it?",
+  "am": "ጥብስና ክትፎ የሚሰራበት ነው፤ ከበሬ፣ ከበግና ከፍየል ይገኛል። ምንድን ነው?"
+ },
+ "32": {
+  "en": "A white drink that comes from cows. Kids drink it to grow strong. What is it?",
+  "am": "ከላም የሚታለብ ነጭ መጠጥ ነው። ልጆች ጠጥተው ይጠነክራሉ። ምንድን ነው?"
+ },
+ "33": {
+  "en": "A hen lays it. Its shell cracks, and inside there is a yellow yolk. What is it?",
+  "am": "ዶሮ ትጥለዋለች። ቅርፊቱ ይሰበራል፤ ውስጡ ቢጫ አስኳል አለ። ምንድን ነው?"
+ },
+ "34": {
+  "en": "It is made from milk. It is soft and crumbly, and cools your mouth after spicy food. What is it?",
+  "am": "ከወተት ይሰራል፤ ለስላሳና ነጭ ነው። በርበሬ የበዛበትን ምግብ ሲበሉ አፍን ያበርዳል። ምንድን ነው?"
+ },
+ "35": {
+  "en": "It swims in water. We eat it, but watch out for its tiny bones! What is it?",
+  "am": "በውሃ ውስጥ ይዋኛል። እንበላዋለን፤ ግን ትንንሽ አጥንቶቹን ተጠንቀቅ! ምንድን ነው?"
+ },
+ "36": {
+  "en": "It has no corners at all. A coin and the full moon have this shape. What shape is it?",
+  "am": "ምንም ጠርዝ የለውም። ሳንቲምና ሙሉ ጨረቃ ይህ ቅርጽ አላቸው። ምን ቅርጽ ነው?"
+ },
+ "37": {
+  "en": "It has four corners and four sides, and all the sides are the same length. What shape is it?",
+  "am": "አራት ጎኖች አሉት፤ ሁሉም ጎኖቹ እኩል ርዝመት አላቸው። ምን ቅርጽ ነው?"
+ },
+ "38": {
+  "en": "Count its sides: one, two, three. A sambusa has this shape! What shape is it?",
+  "am": "የሳምቡሳ ቅርጽ ነው! ሹል ጫፎች አሉት። ምን ቅርጽ ነው?"
+ },
+ "39": {
+  "en": "The shape of an egg: no corners, but longer than it is wide. What shape is it?",
+  "am": "የእንቁላል ቅርጽ ነው፤ ጠርዝ የለውም ግን ረዘም ያለ ነው። ምን ቅርጽ ነው?"
+ },
+ "40": {
+  "en": "We draw this shape to say 'I love you'. It is also the name of what goes thump-thump in your chest! What shape is it?",
+  "am": "'እወድሃለሁ' ለማለት የምንስለው ቅርጽ ነው። ደረታችን ውስጥ ዱብ ዱብ የሚለውም ስሙ ይሄው ነው። ምን ቅርጽ ነው?"
+ },
+ "41": {
+  "en": "It has big wings and carries people high through the sky. What is it?",
+  "am": "ትልልቅ ክንፎች አሉት፤ ሰዎችን ይዞ በሰማይ ላይ ይበራል። ምንድን ነው?"
+ },
+ "42": {
+  "en": "It has four wheels and goes 'beep beep' on the road. What is it?",
+  "am": "አራት ጎማ አለው፤ በመንገድ ላይ 'ቢፕ ቢፕ' እያለ ይሄዳል። ምንድን ነው?"
+ },
+ "43": {
+  "en": "Many long carriages are joined together, and it rolls on iron tracks. Choo choo! What is it?",
+  "am": "ብዙ ፉርጎዎች ተያይዘው በብረት ሀዲድ ላይ ይሄዳል። ቹ ቹ! ምንድን ነው?"
+ },
+ "44": {
+  "en": "It has two wheels and pedals. You push with your feet to make it go. What is it?",
+  "am": "ሁለት ጎማ አለው፤ በእግርህ ፔዳሉን እየረገጥክ ትነዳዋለህ። ምንድን ነው?"
+ },
+ "45": {
+  "en": "A huge boat that floats across the sea, carrying people and goods. What is it?",
+  "am": "በባህር ላይ እየተንሳፈፈ ሰዎችንና እቃዎችን የሚያጓጉዝ ትልቅ ጀልባ ነው። ምንድን ነው?"
+ },
+ "46": {
+  "en": "She lays eggs and says 'cluck cluck'. We make a special wot from her on holidays. What is it?",
+  "am": "እንቁላል ትጥላለች፤ 'ቆቅ ቆቅ' ትላለች። በበዓል ቀን ጣፋጭ ወጥ ይሰራባታል። ምንድን ናት?"
+ },
+ "47": {
+  "en": "It barks 'woof woof', wags its tail and guards the house. What is it?",
+  "am": "'ዋው ዋው' ብሎ ይጮኻል፤ ጭራውን ይወዘውዛል፤ ቤት ይጠብቃል። ምንድን ነው?"
+ },
+ "48": {
+  "en": "It says 'baa', and its body is covered in soft, thick wool. What is it?",
+  "am": "'ባእ' ይላል፤ ሰውነቱ ለስላሳና ወፍራም ሱፍ ነው። ምንድን ነው?"
+ },
+ "49": {
+  "en": "It has a little beard and horns, loves climbing rocks and says 'meh'. What is it?",
+  "am": "ትንሽ ጢም እና ቀንዶች አሉት፤ ድንጋይ ላይ መውጣት ይወዳል። ምንድን ነው?"
+ },
+ "50": {
+  "en": "It says 'meow', purrs when you stroke it and chases mice. What is it?",
+  "am": "'ሚያው' ትላለች፤ ስትዳብሳት ታንኮራፋለች፤ አይጥ ታድናለች። ምንድን ናት?"
+ },
+ "51": {
+  "en": "Haile Gebrselassie and Tirunesh Dibaba won gold medals in this sport by moving fast on a track. What is it?",
+  "am": "ኃይሌ ገብረሥላሴና ጥሩነሽ ዲባባ በዚህ ስፖርት ወርቅ አሸንፈዋል። መስመር ላይ በፍጥነት መሄድ ነው። ምንድን ነው?"
+ },
+ "52": {
+  "en": "Tall players bounce it and throw it into a high hoop with a net. What sport is it?",
+  "am": "ረጃጅም ተጫዋቾች እያነጠሩ ከፍ ብሎ ወደተሰቀለ ቀለበት የሚወረውሩበት ስፖርት ነው። ምንድን ነው?"
+ },
+ "53": {
+  "en": "Two players use small paddles to hit a tiny, light bouncing thing over a low net. Ping, pong! What sport is it?",
+  "am": "ሁለት ሰዎች በትንንሽ መምቻ ቀላል ትንሽ ነገር በዝቅተኛ መረብ ላይ ያመላልሳሉ። ፒንግ ፖንግ! ምን ስፖርት ነው?"
+ },
+ "54": {
+  "en": "Players kick and try to score a goal. Only the goalkeeper may use his hands. What sport is it?",
+  "am": "ተጫዋቾች እየለጉ ጎል ለማግባት ይሞክራሉ፤ በእጅ መንካት የሚችለው በረኛው ብቻ ነው። ምን ስፖርት ነው?"
+ },
+ "55": {
+  "en": "Two people wear big padded gloves and punch each other inside a ring. What sport is it?",
+  "am": "ሁለት ሰዎች ትልቅ ጓንት አድርገው በቡጢ የሚጋጠሙበት ስፖርት ነው። ምንድን ነው?"
+ },
+ "56": {
+  "en": "You have two of these long body parts. You stand, walk and jump on them. What are they?",
+  "am": "ሁለት አሉን፤ በእነሱ ቆመን እንሄዳለን፤ እንዘላለን። ምንድን ነው?"
+ },
+ "57": {
+  "en": "A small dip right in the middle of your tummy. Everyone has one! What is it?",
+  "am": "ሆዳችን መሃል ያለች ትንሽ ጉድጓድ ናት። ሁሉም ሰው አለው! ምንድን ናት?"
+ },
+ "58": {
+  "en": "It is in the middle of your leg. It bends when you sit, and gets scraped when you fall. What is it?",
+  "am": "እግራችን መሃል ያለ መታጠፊያ ነው፤ ስንቀመጥ ይታጠፋል፤ ስንወድቅ ይላጣል። ምንድን ነው?"
+ },
+ "59": {
+  "en": "It joins your shoulder to your hand. You use it to hug, lift and wave. What is it?",
+  "am": "ትከሻህን ከእጅህ ጋር ያገናኛል፤ በሱ ታቅፋለህ፣ ታነሳለህ። ምንድን ነው?"
+ },
+ "60": {
+  "en": "The joint just above your foot that lets it turn. It hurts when you twist it. What is it?",
+  "am": "ከእግር መዳፍህ በላይ ያለ መገጣጠሚያ ነው፤ ወለም ሲልህ ያምማል። ምንድን ነው?"
+ },
+ "61": {
+  "en": "Two oranges, and two more, make four! Its sign looks like a little cross. Which maths sign is it?",
+  "am": "ሁለት ብርቱካን ላይ ሁለት ብንጨምር አራት ይሆናል። ምልክቱ ትንሽ መስቀል ይመስላል። ምንድን ነው?"
+ },
+ "62": {
+  "en": "You have five sweets and eat two, so three are left. Its sign is one short flat line. Which maths sign is it?",
+  "am": "አምስት ከረሜላ ኖሮህ ሁለቱን ብትበላ ሶስት ይቀራል። ምልክቱ አንድ አጭር አግድም መስመር ነው። ምንድን ነው?"
+ },
+ "63": {
+  "en": "Six biscuits shared fairly by two friends: each one gets three. Which maths sign is it?",
+  "am": "ስድስት ብስኩት ለሁለት ጓደኞች ስታድል፣ እያንዳንዳቸው ሶስት ያገኛሉ። ምንድን ነው?"
+ },
+ "64": {
+  "en": "Three bags with two eggs in each: two, four, six! Its sign looks like the letter X. Which maths sign is it?",
+  "am": "ሶስት ቦርሳ፣ በእያንዳንዱ ሁለት እንቁላል፦ ሁለት፣ አራት፣ ስድስት! ምልክቱ እንደ X ነው። ምንድን ነው?"
+ },
+ "65": {
+  "en": "Its sign is two short flat lines, one above the other. It says both sides are the same. Which maths sign is it?",
+  "am": "ምልክቱ አንዱ ከሌላው በላይ ያለ ሁለት አጭር አግድም መስመሮች ናቸው። ሁለቱ ጎኖች አንድ አይነት ናቸው ይላል። ምንድን ነው?"
+ },
+ "66": {
+  "en": "It lives in rivers, has a long mouth full of sharp teeth, and crawls on land on short legs. What is it?",
+  "am": "በወንዝ ይኖራል፤ ረጅም አፉ በስለታም ጥርሶች የተሞላ ነው፤ በአጫጭር እግሮቹ መሬት ላይም ይሄዳል። ምንድን ነው?"
+ },
+ "67": {
+  "en": "It is small, covered in scales, and swims in lakes and rivers. We fry it and eat it. What is it?",
+  "am": "ትንሽ ነው፤ ሰውነቱ ቅርፊት አለው፤ በሐይቅና በወንዝ ይዋኛል፤ ተጠብሶ ይበላል። ምንድን ነው?"
+ },
+ "68": {
+  "en": "The biggest animal in the whole world! It lives in the ocean and sprays water up from its head. What is it?",
+  "am": "በዓለም ላይ ትልቁ እንስሳ ነው! በውቅያኖስ ይኖራል፤ ከራሱ ላይ ውሃ ወደ ላይ ይረጫል። ምንድን ነው?"
+ },
+ "69": {
+  "en": "A fast sea hunter with rows of sharp teeth. Its back fin pokes up out of the water. What is it?",
+  "am": "በባህር የሚኖር ፈጣን አዳኝ ነው፤ ብዙ ስለታም ጥርሶች አሉት፤ የጀርባ ክንፉ ከውሃ በላይ ይታያል። ምንድን ነው?"
+ },
+ "70": {
+  "en": "It has eight long wiggly arms and squirts ink to hide. What is it?",
+  "am": "ስምንት ረጃጅም እጆች አሉት፤ ለመደበቅ ጥቁር ቀለም ይረጫል። ምንድን ነው?"
+ },
+ "71": {
+  "en": "It is the number we start counting with. How many noses do you have?",
+  "am": "ቆጠራ የምንጀምርበት ቁጥር ነው። አፍንጫህ ስንት ነው?"
+ },
+ "72": {
+  "en": "How many fingers are on one hand?",
+  "am": "በአንድ እጅህ ላይ ስንት ጣቶች አሉ?"
+ },
+ "73": {
+  "en": "How many days are there in one week?",
+  "am": "በአንድ ሳምንት ውስጥ ስንት ቀናት አሉ?"
+ },
+ "74": {
+  "en": "Count: one, two, and what comes next? A sambusa has this many corners.",
+  "am": "አንድ፣ ሁለት፣ ቀጥሎ የሚመጣው ቁጥር ምንድን ነው? የሳምቡሳ ጫፎች ይህን ያህል ናቸው።"
+ },
+ "75": {
+  "en": "It comes just before ten. Count: eight, and then?",
+  "am": "ከአስር በፊት የሚመጣ ቁጥር ነው። ስምንት፣ ቀጥሎስ?"
+ },
+ "76": {
+  "en": "A gentle bird that coos softly. People call it the bird of peace. What is it?",
+  "am": "ቀስ ብላ 'ጉርር' የምትል የዋህ ወፍ ናት፤ የሰላም ምልክት ናት። ምንድን ናት?"
+ },
+ "77": {
+  "en": "It paddles on ponds with webbed feet and says 'quack quack'. What is it?",
+  "am": "በኩሬ ላይ ትዋኛለች፤ 'ቋቅ ቋቅ' ትላለች። ምንድን ናት?"
+ },
+ "78": {
+  "en": "It stays awake all night, says 'hoo hoo', and can turn its head right round. What is it?",
+  "am": "ሌሊት ነቅቶ ያድራል፤ 'ሁ ሁ' ይላል፤ አንገቱን ወደ ኋላ ማዞር ይችላል። ምንድን ነው?"
+ },
+ "79": {
+  "en": "A strong hunting bird that sees far, grabs rabbits with sharp claws and flies away. What is it?",
+  "am": "ጠንካራ አዳኝ ወፍ ነው፤ ከሩቅ አጥርቶ ያያል፤ ጥንቸልን በሹል ጥፍሩ ይዞ ይበራል። ምንድን ነው?"
+ },
+ "80": {
+  "en": "A big bird with no feathers on its head. It circles high, looking for dead animals to eat. What is it?",
+  "am": "ራሱ ላይ ላባ የሌለው ትልቅ ወፍ ነው፤ የሞቱ እንስሳትን ፈልጎ ይበላል። ምንድን ነው?"
+ },
+ "81": {
+  "en": "The computer's screen. You look at it to see words and pictures, like a TV. What is it?",
+  "am": "የኮምፒውተሩ ስክሪን ነው፤ ፊደላትንና ምስሎችን የምናይበት፣ ቴሌቪዥን ይመስላል። ምንድን ነው?"
+ },
+ "82": {
+  "en": "You hold it and click to move the arrow on the screen. It has the same name as a tiny squeaky animal. What is it?",
+  "am": "በእጅህ ይዘህ 'ክሊክ' ታደርገዋለህ፤ ስክሪኑ ላይ ያለውን ቀስት ያንቀሳቅሳል። በእንግሊዝኛ ስሙ የአይጥ ስም ነው። ምንድን ነው?"
+ },
+ "83": {
+  "en": "The box that holds the computer's brain. It has the power button you press to switch it on. What is it?",
+  "am": "የኮምፒውተሩ አንጎል የሚገኝበት ሳጥን ነው፤ ለማብራት የምንጫነው ቁልፍ አለው። ምንድን ነው?"
+ },
+ "84": {
+  "en": "It has lots of buttons with letters and numbers. You press them to type words. What is it?",
+  "am": "ፊደላትና ቁጥሮች ያሉባቸው ብዙ ቁልፎች አሉት፤ እየተጫንክ ትጽፍበታለህ። ምንድን ነው?"
+ },
+ "85": {
+  "en": "It keeps your games, photos and songs saved inside the computer, even after you switch it off. What is it?",
+  "am": "ኮምፒውተሩ ቢጠፋም ጨዋታዎችህን፣ ፎቶዎችህንና ዘፈኖችህን አስቀምጦ ይይዛል። ምንድን ነው?"
+ },
+ "86": {
+  "en": "Two soft parts around your mouth. You press them together to give a kiss. What are they?",
+  "am": "በአፋችን ዙሪያ ያሉ ሁለት ለስላሳ ክፍሎች ናቸው፤ በእነሱ እንስማለን። ምንድን ናቸው?"
+ },
+ "87": {
+  "en": "Hard and white, they bite and chew your food. Brush them every morning and night! What are they?",
+  "am": "ጠንካራና ነጭ ናቸው፤ ምግብ ያኝካሉ። ጠዋትና ማታ ቦርሻቸው! ምንድን ናቸው?"
+ },
+ "88": {
+  "en": "You smell flowers and food with it, and it sneezes 'achoo'! What is it?",
+  "am": "አበባና ምግብ የምናሸትበት ነው፤ 'ሃችሽ' ብሎ ያስነጥሳል። ምንድን ነው?"
+ },
+ "89": {
+  "en": "It lives inside your mouth and tastes sweet and salty. You stick it out at the doctor and say 'aaah'. What is it?",
+  "am": "አፍህ ውስጥ ሆኖ ጣፋጭና ጨው ይቀምሳል። ሐኪም ጋር 'አ...' ብለህ ታወጣዋለህ። ምንድን ነው?"
+ },
+ "90": {
+  "en": "You have two, one on each side of your head. You listen to sounds and music with them. What are they?",
+  "am": "በራስህ በሁለቱ ጎን አሉ፤ ድምጽና ሙዚቃ የምትሰማባቸው ናቸው። ምንድን ናቸው?"
+ },
+ "91": {
+  "en": "You rest it on your lap and strum its six strings with your fingers. Strum, strum! What is it?",
+  "am": "ጭንህ ላይ አድርገህ ስድስት ገመዶቹን በጣቶችህ ትመታለህ። ምንድን ነው?"
+ },
+ "92": {
+  "en": "You tuck it under your chin and slide a bow across its strings to make it sing. What is it?",
+  "am": "በአገጭህ ስር ይዘህ ገመዶቹን በቀስት እየሳብክ ትጫወተዋለህ። ምንድን ነው?"
+ },
+ "93": {
+  "en": "Lots of round things you hit with two sticks, plus shiny metal plates that crash. Boom, boom, tss! What is it?",
+  "am": "በሁለት ዱላ የሚመቱ ብዙ ክብ እቃዎችና የሚንሿሿ ብረቶች ያሉት ነው። ዱም ዱም ጭሽ! ምንድን ነው?"
+ },
+ "94": {
+  "en": "A long row of black and white buttons you press with your fingers to play music, like a piano. What is it?",
+  "am": "በተራ የተቀመጡ ጥቁርና ነጭ ቁልፎች አሉት፤ በጣትህ ስትጫናቸው ሙዚቃ ይወጣል፤ ፒያኖ ይመስላል። ምንድን ነው?"
+ },
+ "95": {
+  "en": "A shiny, curved metal horn. You blow into it and press its buttons to play jazzy music. What is it?",
+  "am": "የተጠማዘዘ የሚያብረቀርቅ የብረት መሳሪያ ነው፤ እየነፋህ ቁልፎቹን ትጫናለህ። ምንድን ነው?"
+ },
+ "96": {
+  "en": "Covered in leather, you beat it with your hands at weddings and holidays. Dum, dum! What is it?",
+  "am": "በቆዳ የተሸፈነ፣ በእጅ የሚመታ ባህላዊ መሳሪያ ነው፤ በሰርግና በበዓል 'ዱም ዱም' ይላል። ምንድን ነው?"
+ },
+ "97": {
+  "en": "A loud, shiny metal horn you blow into. It goes 'toot toot' in parades. What is it?",
+  "am": "የምትነፋው የሚያብረቀርቅ የብረት መሳሪያ ነው፤ በሰልፍ ላይ ጮክ ብሎ 'ቱ ቱ' ይላል። ምንድን ነው?"
+ },
+ "98": {
+  "en": "An Ethiopian instrument with five or six strings that you pluck with your fingers. What is it?",
+  "am": "አምስት ወይም ስድስት ገመዶች ያሉት ባህላዊ መሳሪያ ነው፤ ገመዶቹን በጣት እየቆነጠጡ ይጫወቱታል። ምንድን ነው?"
+ },
+ "99": {
+  "en": "An Ethiopian instrument with just one string, played with a bow. Azmaris sing along with it. What is it?",
+  "am": "አንድ ገመድ ብቻ ያለው፣ በቀስት የሚጫወቱት ባህላዊ መሳሪያ ነው፤ አዝማሪዎች ይጫወቱታል። ምንድን ነው?"
+ },
+ "100": {
+  "en": "A thin bamboo flute that shepherds blow to make soft, sweet sounds. What is it?",
+  "am": "እረኞች የሚነፉት ቀጭን የቀርከሃ መሳሪያ ነው፤ ለስላሳ ጣፋጭ ድምጽ ያወጣል። ምንድን ነው?"
+ },
+ "101": {
+  "en": "Someone grabs your toy, so you frown, your face gets hot, and you stomp your feet. How do you feel?",
+  "am": "አንድ ሰው መጫወቻህን ሲነጥቅህ ፊትህ ይኮሳተራል፣ እግርህንም መሬት ላይ ትመታለህ። ምን ስሜት ነው?"
+ },
+ "102": {
+  "en": "You fell and got hurt, and now tears run down your cheeks as you sob. What are you doing?",
+  "am": "ወድቀህ ስትጎዳ እንባ ከዓይንህ እየወረደ ጉንጭህን ያርሳል። ምን እያደረግህ ነው?"
+ },
+ "103": {
+  "en": "You hug your mom tight and give her a big kiss because she is so special to you. What feeling is it?",
+  "am": "እናትህን አጥብቀህ ታቅፋታለህ፣ ትስማታለህም፤ ልብህ በፍቅር ይሞላል። ምን ስሜት ነው?"
+ },
+ "104": {
+  "en": "Something is so funny that you go 'ha ha ha' and hold your tummy. What are you doing?",
+  "am": "በጣም የሚያዝናና ቀልድ ስትሰማ 'ሃ ሃ ሃ' እያልክ ሆድህን ትይዛለህ። ምን እያደረግህ ነው?"
+ },
+ "105": {
+  "en": "You keep thinking 'What if something bad happens?' and your tummy feels tight. How do you feel?",
+  "am": "'መጥፎ ነገር ቢፈጠርስ?' እያልክ ደጋግመህ ታስባለህ፤ ሆድህም ይረበሻል። ምን ስሜት ነው?"
+ },
+ "106": {
+  "en": "A hot drink made by boiling dry leaves in water; we add sugar and sometimes cinnamon. What is it?",
+  "am": "ደረቅ ቅጠል በውሃ ተፈልቶ የሚሠራ ትኩስ መጠጥ ነው፤ ስኳርና ቀረፋ እንጨምርበታለን። ምንድን ነው?"
+ },
+ "107": {
+  "en": "Grown-ups drink this dark, bitter, hot drink from tiny cups after boiling it in a jebena. What is it?",
+  "am": "ትላልቅ ሰዎች በጀበና አፍልተው በትንንሽ ስኒ የሚጠጡት ጥቁር፣ መራራ ትኩስ መጠጥ ነው። ምንድን ነው?"
+ },
+ "108": {
+  "en": "It has no taste and no color; it falls as rain and flows in rivers, and you drink it when thirsty. What is it?",
+  "am": "ጣዕምም ቀለምም የለውም፤ እንደ ዝናብ ይወርዳል፣ በወንዝም ይፈሳል። ስንጠማ እንጠጣዋለን። ምንድን ነው?"
+ },
+ "109": {
+  "en": "A white drink that comes from a cow; it helps make your bones strong. What is it?",
+  "am": "ከላም የሚገኝ ነጭ መጠጥ ነው፤ አጥንትህን ያጠነክራል። ምንድን ነው?"
+ },
+ "110": {
+  "en": "A sweet, cold drink in a bottle; it goes 'pssst' when opened and tickles your nose with tiny bubbles. What is it?",
+  "am": "በጠርሙስ የሚመጣ ጣፋጭ ቀዝቃዛ መጠጥ ነው፤ ሲከፈት 'ፍስስ' ይላል፣ ትንንሽ አረፋዎችም አሉት። ምንድን ነው?"
+ },
+ "111": {
+  "en": "He is not a little boy anymore, but not old either; he is strong, plays football and goes to college. Who is he?",
+  "am": "ትንሽ ልጅ አይደለም፣ ግን ገና አላረጀም። ጠንካራ ነው፤ ኳስ ይጫወታል፣ ዩኒቨርሲቲ ይማራል። ማን ነው?"
+ },
+ "112": {
+  "en": "He has white hair, walks slowly with a stick, and tells stories to his grandchildren. Who is he?",
+  "am": "ፀጉሩ ነጭ ነው፤ በምርኩዝ ቀስ ብሎ ይሄዳል፣ ለልጅ ልጆቹም ተረት ይነግራል። ማን ነው?"
+ },
+ "113": {
+  "en": "This tiny person can't walk or talk yet; it drinks milk, sleeps a lot and cries 'waa waa'. Who is it?",
+  "am": "ገና መራመድም ማውራትም አይችልም፤ ጡት ይጠባል፣ ብዙ ይተኛል፣ 'ዋ ዋ' እያለ ያለቅሳል። ማን ነው?"
+ },
+ "114": {
+  "en": "She carried you in her tummy before you were born, cooks for you and sings you to sleep. Who is she?",
+  "am": "በሆዷ ተሸክማ የወለደችህ፣ ምግብ የምታበስልልህና አቅፋ የምታስተኛህ ሴት ናት። ማን ናት?"
+ },
+ "115": {
+  "en": "He is the man in your family whose name comes right after your own name. Who is he?",
+  "am": "በቤተሰብህ ውስጥ ያለ ወንድ ነው፤ ከስምህ ቀጥሎ የሚጠራው የእሱ ስም ነው። ማን ነው?"
+ },
+ "116": {
+  "en": "You wear it on the top half of your body; it has sleeves for your arms and buttons down the front. What is it?",
+  "am": "ከወገብህ በላይ የምትለብሰው ልብስ ነው፤ ለእጆችህ እጅጌ፣ ከፊት ደግሞ ቁልፎች አሉት። ምንድን ነው?"
+ },
+ "117": {
+  "en": "It wraps around your waist and buckles up so your trousers don't fall down. What is it?",
+  "am": "ሱሪህ እንዳይወድቅ ወገብህ ዙሪያ ጠበቅ አድርገህ የምታስረው ነገር ነው። ምንድን ነው?"
+ },
+ "118": {
+  "en": "You wear them on your nose and ears to help your eyes see clearly. What are they?",
+  "am": "ዓይንህ በደንብ እንዲያይ አፍንጫህና ጆሮህ ላይ የምታደርገው ነገር ነው። ምንድን ነው?"
+ },
+ "119": {
+  "en": "A long strip of cloth that men tie in a knot around the neck when they dress up for special days. What is it?",
+  "am": "ወንዶች ለልዩ ቀን ሲዘንጡ አንገታቸው ላይ በቋጠሮ የሚያስሩት ረጅም ጨርቅ ነው። ምንድን ነው?"
+ },
+ "120": {
+  "en": "You put them on your feet before going outside so stones don't hurt you; they come in pairs. What are they?",
+  "am": "ድንጋይ እንዳይጎዳህ ወደ ውጭ ስትወጣ እግርህ ላይ የምታደርጋቸው ጥንድ ነገሮች ናቸው። ምንድን ናቸው?"
+ },
+ "121": {
+  "en": "This big country in Asia has a very, very long wall, black-and-white pandas, and people eat with chopsticks. Which country?",
+  "am": "በእስያ የምትገኝ ትልቅ ሀገር ናት፤ በጣም ረጅም ግንብና ጥቁርና ነጭ ፓንዳዎች አሏት። ሰዎቿ በሁለት ቀጭን ዱላ ይመገባሉ። የትኛዋ ሀገር ናት?"
+ },
+ "122": {
+  "en": "This is our home country! Coffee was first found here, and people eat injera every day. Which country?",
+  "am": "ይህች የእኛ ሀገር ናት! ቡና መጀመሪያ የተገኘባትና እንጀራ የምንበላባት ሀገር። የትኛዋ ሀገር ናት?"
+ },
+ "123": {
+  "en": "This country in Europe has a super tall iron tower in its capital city, Paris. Which country?",
+  "am": "በአውሮፓ የምትገኝ ሀገር ናት፤ ዋና ከተማዋ ፓሪስ ሲሆን በዚያ በጣም ረጅም የብረት ማማ አለ። የትኛዋ ሀገር ናት?"
+ },
+ "124": {
+  "en": "This country is half in Europe and half in Asia, and its biggest city is Istanbul. Which country?",
+  "am": "ግማሿ በአውሮፓ፣ ግማሿ በእስያ የምትገኝ ሀገር ናት፤ ትልቋ ከተማዋ ኢስታንቡል ትባላለች። የትኛዋ ሀገር ናት?"
+ },
+ "125": {
+  "en": "This country in Europe is famous for making strong cars, and its capital city is Berlin. Which country?",
+  "am": "በአውሮፓ የምትገኝ ሀገር ናት፤ ጠንካራ መኪኖችን በመሥራት ትታወቃለች፣ ዋና ከተማዋም በርሊን ናት። የትኛዋ ሀገር ናት?"
+ },
+ "126": {
+  "en": "A big, flat, round bread baked with tomato sauce and stretchy cheese on top, cut into triangle slices. What is it?",
+  "am": "በላዩ ቲማቲም ስጎና የሚሳብ አይብ ያለበት ትልቅ ክብ ጠፍጣፋ ዳቦ ነው፤ በሦስት ማዕዘን ተቆርሶ ይበላል። ምንድን ነው?"
+ },
+ "127": {
+  "en": "A soft round bun with a hot, juicy patty of ground meat in the middle, plus tomato and sauce. What is it?",
+  "am": "በሁለት ክብ ለስላሳ ዳቦ መካከል የተጠበሰ የተፈጨ ስጋና ቲማቲም ያለበት ምግብ ነው። ምንድን ነው?"
+ },
+ "128": {
+  "en": "Two square slices of bread with egg, cheese or vegetables in between; easy to pack for school lunch. What is it?",
+  "am": "በሁለት አራት ማዕዘን የዳቦ ቁራጭ መካከል እንቁላል ወይም አትክልት የሚገባበት ምግብ ነው፤ ለትምህርት ቤት ምሳ ይያዛል። ምንድን ነው?"
+ },
+ "129": {
+  "en": "A soft, sweet treat with candles on top that we cut on birthdays. What is it?",
+  "am": "በልደት ቀን ሻማ ተለኩሶበት የምንቆርሰው ለስላሳ ጣፋጭ ምግብ ነው። ምንድን ነው?"
+ },
+ "130": {
+  "en": "A sweet fried ring of dough with a hole in the middle, often covered in sugar or chocolate. What is it?",
+  "am": "መሃሉ ቀዳዳ ያለው፣ በዘይት የተጠበሰ ክብ ጣፋጭ ዳቦ ነው፤ ስኳር ወይም ቸኮሌት ይቀባል። ምንድን ነው?"
+ },
+ "131": {
+  "en": "You bend your knees and push up so both feet leave the ground, like a frog. What are you doing?",
+  "am": "ጉልበትህን አጥፈህ እንደ እንቁራሪት ሁለቱም እግሮችህ ከመሬት እንዲነሱ ወደ ላይ ትወረወራለህ። ምን እያደረግህ ነው?"
+ },
+ "132": {
+  "en": "You move your legs super fast to win a race, like Ethiopia's famous athletes. What are you doing?",
+  "am": "ውድድር ለማሸነፍ እንደ ታዋቂ ኢትዮጵያውያን አትሌቶች እግሮችህን በጣም በፍጥነት ታንቀሳቅሳለህ። ምን እያደረግህ ነው?"
+ },
+ "133": {
+  "en": "You rest on a chair, awake, with your feet on the floor, just like in class. What are you doing?",
+  "am": "በክፍል ውስጥ እንደምታደርገው ነቅተህ ወንበር ላይ ታርፋለህ፤ እግሮችህ መሬት ይነካሉ። ምን እያደረግህ ነው?"
+ },
+ "134": {
+  "en": "At night you lie in bed, close your eyes and dream until morning. What are you doing?",
+  "am": "ማታ አልጋ ላይ ጋደም ብለህ ዓይንህን ትጨፍናለህ፤ እስከ ጠዋት ድረስ ታልማለህ። ምን እያደረግህ ነው?"
+ },
+ "135": {
+  "en": "When music plays, you clap, move your shoulders and sway to the beat, like eskista at a wedding. What are you doing?",
+  "am": "ሙዚቃ ሲጫወት ታጨበጭባለህ፣ ትከሻህን እያንቀሳቀስክ እስክስታ ትወርዳለህ። ምን እያደረግህ ነው?"
+ },
+ "136": {
+  "en": "It goes 'bang, bang!' when you hit nails into wood with it. What tool is it?",
+  "am": "ምስማርን እንጨት ውስጥ ለማስገባት 'ቋ ቋ' እያልን የምንመታበት መሣሪያ ነው። ምንድን ነው?"
+ },
+ "137": {
+  "en": "A tool with a wide, flat scoop on a long handle, used to lift and move sand and soil. What is it?",
+  "am": "ረጅም እጀታና ሰፊ ጠፍጣፋ ጫፍ ያለው መሣሪያ ነው፤ አሸዋና አፈር እንዝቅበታለን። ምንድን ነው?"
+ },
+ "138": {
+  "en": "A heavy tool with a pointed metal end; farmers swing it down to break hard ground and dig. What is it?",
+  "am": "ሹል የብረት ጫፍ ያለው ከባድ መሣሪያ ነው፤ ገበሬዎች ደረቅ መሬትን ለመቆፈር ወደ ታች ይመቱበታል። ምንድን ነው?"
+ },
+ "139": {
+  "en": "A tool with a sharp blade on a handle; you swing it to chop trees and split firewood. What is it?",
+  "am": "እጀታ ላይ የተሰካ ስለታም ብረት ነው፤ ዛፍ ለመቁረጥና ማገዶ ለመፍለጥ እንጠቀምበታለን። ምንድን ነው?"
+ },
+ "140": {
+  "en": "A flat metal tool with lots of sharp teeth; you push and pull it back and forth to cut wood. What is it?",
+  "am": "ብዙ ስለታም ጥርሶች ያሉት ጠፍጣፋ ብረት ነው፤ እንጨት ለመቁረጥ ወደ ፊትና ወደ ኋላ እንገፋዋለን። ምንድን ነው?"
+ },
+ "141": {
+  "en": "This is the big round planet we live on, with oceans, mountains, animals and people. What is it?",
+  "am": "እኛ የምንኖርበት ትልቅ ክብ ፕላኔት ነው፤ ውቅያኖስ፣ ተራራ፣ እንስሳትና ሰዎች አሉበት። ምንድን ነው?"
+ },
+ "142": {
+  "en": "A machine that circles high around our planet in space and sends TV and phone signals to us. What is it?",
+  "am": "በጠፈር ውስጥ ፕላኔታችንን እየዞረ የቴሌቪዥንና የስልክ መልዕክት የሚልክልን ማሽን ነው። ምንድን ነው?"
+ },
+ "143": {
+  "en": "It blasts off with fire and a loud roar, carrying astronauts up into space. What is it?",
+  "am": "በእሳትና በከፍተኛ ድምፅ ተወንጭፎ ጠፈርተኞችን ወደ ጠፈር የሚወስድ ነው። ምንድን ነው?"
+ },
+ "144": {
+  "en": "A small tool with an arrow that always points north, so you don't get lost. What is it?",
+  "am": "ቀስቱ ሁልጊዜ ወደ ሰሜን የሚጠቁም ትንሽ መሣሪያ ነው፤ መንገድ እንዳይጠፋብህ ይረዳሃል። ምንድን ነው?"
+ },
+ "145": {
+  "en": "A long tube you look through at night to see the moon and stars up close. What is it?",
+  "am": "ጨረቃንና ከዋክብትን በቅርበት ለማየት ማታ የምንመለከትበት ረጅም ቱቦ ነው። ምንድን ነው?"
+ },
+ "146": {
+  "en": "A small tool with a little round bowl at the end; you eat soup or porridge with it. What is it?",
+  "am": "ጫፉ ትንሽ ጎድጓዳ የሆነ የመመገቢያ ዕቃ ነው፤ ሾርባ ወይም ገንፎ እንበላበታለን። ምንድን ነው?"
+ },
+ "147": {
+  "en": "A big, deep scoop with a long handle, used to serve stew from the cooking pot. What is it?",
+  "am": "ረጅም እጀታና ትልቅ ጎድጓዳ ጫፍ ያለው ዕቃ ነው፤ ወጥን ከድስት አውጥተን እናቀርብበታለን። ምንድን ነው?"
+ },
+ "148": {
+  "en": "It gets very hot with fire or electricity, and we put pots on top of it to cook. What is it?",
+  "am": "በእሳት ወይም በኤሌክትሪክ በጣም ይግላል፤ ምግብ ለማብሰል ድስት በላዩ ላይ እናስቀምጣለን። ምንድን ነው?"
+ },
+ "149": {
+  "en": "It has three or four pointy prongs to poke and pick up food like pasta. What is it?",
+  "am": "ምግብን ወግተን ለማንሳት የሚረዱ ሦስት ወይም አራት ሹል ጣቶች አሉት፤ ፓስታ እንበላበታለን። ምንድን ነው?"
+ },
+ "150": {
+  "en": "It has a sharp edge for cutting bread, meat or onions; use it only with a grown-up. What is it?",
+  "am": "ዳቦ፣ ስጋ ወይም ሽንኩርት ለመቁረጥ የሚያገለግል ስለታም ዕቃ ነው፤ ትልቅ ሰው ሲያግዝህ ብቻ ተጠቀምበት። ምንድን ነው?"
+ },
+ "151": {
+  "en": "You hit colored balls with a long stick on a green table, trying to knock them into the holes. What game is it?",
+  "am": "በረጅም ዱላ የተለያየ ቀለም ያላቸውን ኳሶች አረንጓዴ ጠረጴዛ ላይ እየመታህ ወደ ቀዳዳ የምታስገባበት ጨዋታ ነው። ምንድን ነው?"
+ },
+ "152": {
+  "en": "Two players use small paddles to hit a tiny bouncy ball over a little net, tik, tok, tik, tok. What game is it?",
+  "am": "ሁለት ተጫዋቾች በትንሽ መምቻ ቀላል ኳስ በትንሽ መረብ ላይ «ቲክ ቶክ» እያሉ የሚያመላልሱበት ጨዋታ ነው። ምንድን ነው?"
+ },
+ "153": {
+  "en": "You shuffle a pile of thin paper pieces with numbers and pictures, hold some in your hand and take turns. What game is it?",
+  "am": "ቁጥርና ስዕል ያለባቸውን ቀጭን ወረቀቶች ቀላቅለህ በእጅህ ይዘህ በተራ የምትጫወተው ጨዋታ ነው። ምንድን ነው?"
+ },
+ "154": {
+  "en": "You throw small pointy arrows at a round board on the wall, trying to hit the middle. What game is it?",
+  "am": "ትንንሽ ሹል ቀስቶችን ግድግዳ ላይ ወዳለ ክብ ሰሌዳ እየወረወርክ መሃሉን ለመምታት የምትሞክርበት ጨዋታ ነው። ምንድን ነው?"
+ },
+ "155": {
+  "en": "Two players move kings, queens and horses on a black-and-white checkered board; you win by trapping the king. What game is it?",
+  "am": "ሁለት ተጫዋቾች ንጉሥ፣ ንግሥትና ፈረስ የሚባሉ ጠጠሮችን ጥቁርና ነጭ ሰሌዳ ላይ እያንቀሳቀሱ የሚጫወቱት የአእምሮ ጨዋታ ነው። ምንድን ነው?"
+ },
+ "156": {
+  "en": "Old stone castles with round towers, built by kings long ago in the city of Gondar. What place is it?",
+  "am": "በጎንደር ከተማ ከብዙ ዘመን በፊት ነገሥታት የሠሯቸው ክብ ማማ ያላቸው የድንጋይ ቤተ መንግሥቶች ናቸው። ምንድን ነው?"
+ },
+ "157": {
+  "en": "A super tall stone pillar carved from one giant rock long ago; it was taken to Italy, then brought back home. What is it?",
+  "am": "ከአንድ ግዙፍ ድንጋይ ተጠርቦ የቆመ በጣም ረጅም ቀጭን የድንጋይ ምሰሶ ነው፤ ወደ ጣሊያን ተወስዶ ወደ ሀገሩ ተመልሷል። ምንድን ነው?"
+ },
+ "158": {
+  "en": "Famous churches carved down into the solid rock ground, from the top down, long ago. What place is it?",
+  "am": "ከአለት ወደ ታች ተፈልፍለው የተሠሩ ዝነኛ አብያተ ክርስቲያናት ያሉበት ቦታ ነው። ምንድን ነው?"
+ },
+ "159": {
+  "en": "A famous golden statue in Addis Ababa of the king of animals, wearing a crown and holding a flag. What is it?",
+  "am": "በአዲስ አበባ የሚገኝ፣ ዘውድ የደፋና ባንዲራ የያዘ የዱር እንስሳት ንጉሥ የወርቅ ቀለም ምስል ነው። ምንድን ነው?"
+ },
+ "160": {
+  "en": "Tall red-rock mountains in Tigray where tiny old churches sit high up on cliffs, and you must climb to reach them. What place is it?",
+  "am": "በትግራይ የሚገኙ ረጃጅም የአለት ተራሮች ናቸው፤ ገደል ላይ ከፍ ብለው የተሠሩ ጥንታዊ ቤተ ክርስቲያናት አሉባቸው፤ ለመድረስ መውጣት ያስፈልጋል። ምንድን ነው?"
+ },
+ "161": {
+  "en": "You press a button and it shines a bright beam so you can see in the dark. What is it?",
+  "am": "ቁልፉን ስትጫን ደማቅ ብርሃን ይሰጣል፤ በጨለማ ውስጥ ለማየት ይረዳሃል። ምንድን ነው?"
+ },
+ "162": {
+  "en": "Turn it on and you hear news, music and voices of people far away, but you can't see them. What is it?",
+  "am": "ስትከፍተው ዜና፣ ሙዚቃና የሩቅ ሰዎችን ድምፅ ትሰማለህ፤ ግን ሰዎቹን አታያቸውም። ምንድን ነው?"
+ },
+ "163": {
+  "en": "You hold it up to both eyes to see faraway birds and animals as if they were close. What is it?",
+  "am": "በሁለቱም ዓይኖችህ የምትመለከትበት ነው፤ ሩቅ ያሉ ወፎችንና እንስሳትን ቅርብ አስመስሎ ያሳያል። ምንድን ነው?"
+ },
+ "164": {
+  "en": "You press its number buttons and it quickly tells you the answer to adding or taking away. What is it?",
+  "am": "የቁጥር ቁልፎቹን ስትጫን የመደመርና የመቀነስ መልሱን በፍጥነት ይነግርሃል። ምንድን ነው?"
+ },
+ "165": {
+  "en": "At the market, you put fruit or flour on it to find out how heavy it is. What is it?",
+  "am": "በገበያ ፍራፍሬ ወይም ዱቄት ምን ያህል ክብደት እንዳለው ለማወቅ የምንጠቀምበት ነው። ምንድን ነው?"
+ },
+ "166": {
+  "en": "A furry monkey with a bright red patch on its chest; it lives in Ethiopia's mountains and eats grass. What animal is it?",
+  "am": "ደረቱ ላይ የልብ ቅርጽ ያለው ደማቅ ምልክት ያለው፣ ብዙ ፀጉር ያለው የጦጣ ዘመድ ነው፤ በኢትዮጵያ ተራሮች ሳር እየበላ ይኖራል። ምንድን ነው?"
+ },
+ "167": {
+  "en": "A rare red, fox-like wild dog that lives only in Ethiopia's cold mountains and hunts rats. What animal is it?",
+  "am": "በኢትዮጵያ ቀዝቃዛ ተራሮች ብቻ የሚኖር፣ ረጅም እግርና ጭራ ያለው የውሻ ዘመድ ነው፤ አይጥ እያደነ ይበላል። ምንድን ነው?"
+ },
+ "168": {
+  "en": "A shy, dark brown antelope with white spots that hides in Ethiopia's forests; only the male has horns. What animal is it?",
+  "am": "በኢትዮጵያ ጫካ ውስጥ የሚደበቅ፣ ጥቁር ቡናማና ነጭ ነጠብጣብ ያለው አይናፋር አጋዘን ነው፤ ቀንድ ያለው ወንዱ ብቻ ነው። ምንድን ነው?"
+ },
+ "169": {
+  "en": "A wild mountain goat with huge curved horns that climbs steep cliffs in the Simien Mountains and lives nowhere else. What animal is it?",
+  "am": "በሰሜን ተራሮች ገደል ላይ የሚወጣ፣ ትልልቅ ጥምዝ ቀንዶች ያሉት የዱር ፍየል ነው፤ ከኢትዮጵያ ውጭ የትም አይገኝም። ምንድን ነው?"
+ },
+ "170": {
+  "en": "The only bird here! It is small and dark gray, hides in Ethiopia's highland bushes and sings lovely, loud songs. What is it?",
+  "am": "ትንሽ ጥቁር ግራጫ ወፍ ናት፤ በኢትዮጵያ ደጋማ ቦታዎች ቁጥቋጦ ውስጥ ተደብቃ የሚያምር ዜማ ትዘምራለች። ምንድን ናት?"
+ },
+ "171": {
+  "en": "It gets hot, and you slide it over wrinkly clothes to make them smooth and flat. What is it?",
+  "am": "ይግላል፤ የተጨማደደ ልብስ ላይ እያንሸራተትን ልብሱን ቀጥ እናደርገዋለን። ምንድን ነው?"
+ },
+ "172": {
+  "en": "A hot box with a door; we put cake or bread inside to bake. What is it?",
+  "am": "በር ያለው ሞቃት ሳጥን ነው፤ ኬክ ወይም ዳቦ ውስጡ አስገብተን እንጋግርበታለን። ምንድን ነው?"
+ },
+ "173": {
+  "en": "It goes 'vrrrr' as it spins mango, orange or avocado into a yummy drink. What is it?",
+  "am": "'ቭርርር' እያለ ማንጎ፣ ብርቱካን ወይም አቮካዶ እያሽከረከረ ወደ ጣፋጭ መጠጥ ይቀይራል። ምንድን ነው?"
+ },
+ "174": {
+  "en": "A big cold box in the kitchen that keeps milk and food fresh and makes ice. What is it?",
+  "am": "ወተትና ምግብ እንዳይበላሹ የሚያቀዘቅዝ፣ በረዶም የሚሠራ ትልቅ ሳጥን ነው። ምንድን ነው?"
+ },
+ "175": {
+  "en": "You put dirty clothes, soap and water inside; it spins round and round and makes them clean. What is it?",
+  "am": "የቆሸሸ ልብስ፣ ሳሙናና ውሃ ውስጡ ይገባል፤ እየዞረ ልብሱን ያጸዳል። ምንድን ነው?"
+ },
+ "176": {
+  "en": "It makes slippery bubbles when you rub it with water, and you wash your hands with it before eating. What is it?",
+  "am": "ከውሃ ጋር ስታሸው የሚያዳልጥ አረፋ ይሰጣል፤ ከመብላትህ በፊት እጅህን ትታጠብበታለህ። ምንድን ነው?"
+ },
+ "177": {
+  "en": "A small stick with soft bristles at one end; every morning and night you scrub inside your mouth with it. What is it?",
+  "am": "ጫፉ ላይ ለስላሳ ፀጉር ያለው ትንሽ ዱላ ነው፤ ጠዋትና ማታ አፍህን ታጸዳበታለህ። ምንድን ነው?"
+ },
+ "178": {
+  "en": "A minty cream you squeeze from a tube to keep your mouth fresh and clean. What is it?",
+  "am": "ከቱቦ የምትጨምቀው፣ ቀዝቀዝ የሚል ጣዕም ያለው ክሬም ነው፤ አፍህን ንጹሕና መዓዛማ ያደርጋል። ምንድን ነው?"
+ },
+ "179": {
+  "en": "A thick, bubbly liquid from a bottle that you rub into your hair to wash it. What is it?",
+  "am": "ፀጉርህን ለማጠብ የምትጠቀምበት፣ ከጠርሙስ የሚወጣ አረፋማ ፈሳሽ ነው። ምንድን ነው?"
+ },
+ "180": {
+  "en": "A soft, fluffy cloth you use to dry your body after a bath. What is it?",
+  "am": "ገላህን ከታጠብክ በኋላ ሰውነትህን የምታደርቅበት ለስላሳ ጨርቅ ነው። ምንድን ነው?"
+ },
+ "181": {
+  "en": "The nurse uses it to give you a quick shot in your arm; it pinches a little but keeps you healthy. What is it?",
+  "am": "ነርሷ ክንድህ ላይ ክትባት የምትሰጥበት ነው፤ ትንሽ ይቆነጥጣል፣ ግን ጤናማ ያደርግሃል። ምንድን ነው?"
+ },
+ "182": {
+  "en": "The doctor puts it in his ears and on your chest to hear your heart go 'thump, thump'. What is it?",
+  "am": "ሐኪሙ ጆሮው ላይ አድርጎ ደረትህ ላይ በማስቀመጥ የልብህን 'ዱብ ዱብ' ድምፅ የሚሰማበት ነው። ምንድን ነው?"
+ },
+ "183": {
+  "en": "Pills or syrup you take when you are sick to feel better; take it only from a grown-up. What is it?",
+  "am": "ስትታመም እንዲሻልህ የምትወስደው ኪኒን ወይም ሽሮፕ ነው፤ ከትልቅ ሰው እጅ ብቻ ውሰድ። ምንድን ነው?"
+ },
+ "184": {
+  "en": "Scientists look through it to see tiny germs that are too small for our eyes. What is it?",
+  "am": "ሳይንቲስቶች በዓይን የማይታዩ ጥቃቅን ጀርሞችን ለማየት የሚመለከቱበት መሣሪያ ነው። ምንድን ነው?"
+ },
+ "185": {
+  "en": "You hold it under your arm or in your mouth, and it tells if you have a fever. What is it?",
+  "am": "ብብትህ ስር ወይም አፍህ ውስጥ ይቀመጣል፤ ትኩሳት እንዳለብህ ይነግራል። ምንድን ነው?"
+ },
+ "186": {
+  "en": "A man who rules a whole land and sits on a throne; his son may rule after him. Who is he?",
+  "am": "ሀገሩን የሚገዛ፣ በዙፋን ላይ የሚቀመጥ ሰው ነው፤ ከእሱ በኋላ ልጁ ሊገዛ ይችላል። ማን ነው?"
+ },
+ "187": {
+  "en": "A woman who rules a land; long ago, Sheba was a famous one. Who is she?",
+  "am": "ሀገርን የምትገዛ ሴት ናት፤ ከብዙ ዘመን በፊት የኖረችው ሳባ ታዋቂዋ ናት። ማን ናት?"
+ },
+ "188": {
+  "en": "A huge, fancy home where the royal family lives, with many rooms and guards at the gate. What is it?",
+  "am": "የገዢው ቤተሰብ የሚኖርበት፣ ብዙ ክፍሎችና በር ላይ ጠባቂዎች ያሉት ትልቅና ያማረ መኖሪያ ነው። ምንድን ነው?"
+ },
+ "189": {
+  "en": "A long, heavy, fancy cloth the ruler wears over the shoulders; it flows down the back to the floor. What is it?",
+  "am": "ገዢው ትከሻው ላይ የሚደርበው፣ ከኋላው እስከ መሬት የሚወርድ ረጅም ያማረ ልብስ ነው። ምንድን ነው?"
+ },
+ "190": {
+  "en": "A shiny gold circle with jewels that sits on the ruler's head. What is it?",
+  "am": "በገዢው ራስ ላይ የሚደፋ፣ ዕንቁ ያለበት የሚያብረቀርቅ የወርቅ ክብ ነው። ምንድን ነው?"
+ },
+ "191": {
+  "en": "The biggest animal on land, with huge flapping ears and a long trunk it uses like a hand. What is it?",
+  "am": "ትልቅ ጆሮና እንደ እጅ የሚጠቀምበት ረጅም ኩምቢ ያለው፣ በየብስ ላይ ካሉ እንስሳት ሁሉ ትልቁ ነው። ምንድን ነው?"
+ },
+ "192": {
+  "en": "A spotted wild cat that climbs trees and hides its food up in the branches. What is it?",
+  "am": "ዛፍ ላይ የሚወጣና ያደነውን ምግብ ቅርንጫፍ ላይ የሚደብቅ ነጠብጣብ ያለው አውሬ ነው። ምንድን ነው?"
+ },
+ "193": {
+  "en": "The 'king of the jungle'! The male has a big fluffy mane and gives a loud roar. What is it?",
+  "am": "'የዱር እንስሳት ንጉሥ' ይባላል፤ ወንዱ አንገቱ ዙሪያ ብዙ ጎፈር አለው፣ በኃይል ያገሳል። ምንድን ነው?"
+ },
+ "194": {
+  "en": "A wild pig with curved tusks and bumps on its face; it runs with its thin tail sticking straight up. What is it?",
+  "am": "ከአፉ የወጡ ጠማማ ጥርሶች ያሉት የዱር አሳማ ነው፤ ሲሮጥ ቀጭን ጭራውን ቀጥ አድርጎ ያቆማል። ምንድን ነው?"
+ },
+ "195": {
+  "en": "The fastest runner of all animals, with spots and black lines running down from its eyes like tears. What is it?",
+  "am": "ከእንስሳት ሁሉ በፍጥነት የሚሮጥ ነው፤ ነጠብጣብና ከዓይኑ ወደ ታች እንደ እንባ የሚወርድ ጥቁር መስመር አለው። ምንድን ነው?"
+ },
+ "196": {
+  "en": "The highest mountain in Ethiopia, in the Simien range, so tall that its top is very cold. What is it?",
+  "am": "በሰሜን ጎንደር የሚገኝ፣ ከኢትዮጵያ ሁሉ ከፍ ያለው ጫፍ ነው፤ አናቱ በጣም ይቀዘቅዛል። ምንድን ነው?"
+ },
+ "197": {
+  "en": "A long, dark hole under the ground in Bale where a river flows through rocky tunnels. What place is it?",
+  "am": "በባሌ የሚገኝ፣ ወንዝ በውስጡ የሚፈስበት ረጅም ጨለማ የመሬት ውስጥ ዋሻ ነው። ምንድን ነው?"
+ },
+ "198": {
+  "en": "One of the hottest places on Earth, in the Afar desert, with bright yellow and green salty pools. What place is it?",
+  "am": "በአፋር የሚገኝ፣ በዓለም ላይ በጣም ሞቃት ከሆኑ ቦታዎች አንዱ ነው፤ ቢጫና አረንጓዴ ጨዋማ ኩሬዎች አሉት። ምንድን ነው?"
+ },
+ "199": {
+  "en": "A cool, green place near Addis Ababa full of tall old trees, monkeys and birds, protected for hundreds of years. What place?",
+  "am": "ከአዲስ አበባ አጠገብ የሚገኝ፣ ረጃጅም ጥንታዊ ዛፎች፣ ጦጣዎችና ወፎች ያሉበት ቀዝቃዛ አረንጓዴ ቦታ ነው። ምንድን ነው?"
+ },
+ "200": {
+  "en": "A fire mountain in the Afar desert with a bubbling lake of red-hot melted rock inside. What is it?",
+  "am": "በአፋር በረሃ የሚገኝ እሳተ ገሞራ ነው፤ በውስጡ እንደ እሳት የሚንተከተክ የቀለጠ አለት ኩሬ አለ። ምንድን ነው?"
+ },
+ "201": {
+  "en": "We give these paper notes and coins at the shop to buy bread. What is it?",
+  "am": "ሱቅ ሄደን ዳቦ ለመግዛት የምንሰጠው ወረቀትና ሳንቲም ምንድን ነው?"
+ },
+ "202": {
+  "en": "With this phone app from Ethiopia's phone company, you can send money to your family. What is it?",
+  "am": "የኢትዮጵያ የስልክ ድርጅት በሠራው በዚህ መተግበሪያ በስልካችን ለቤተሰብ ገንዘብ እንልካለን። ምንድን ነው?"
+ },
+ "203": {
+  "en": "This small flat plastic thing with a red and a yellow circle lets you pay in shops all over the world. What is it?",
+  "am": "ቀይና ቢጫ ክብ ምልክት ያለው ይህ ትንሽ ጠፍጣፋ ፕላስቲክ በዓለም ሁሉ ባሉ ሱቆች ለመክፈል ይጠቅማል። ምንድን ነው?"
+ },
+ "204": {
+  "en": "This machine by the street gives you money when you put in a bank card and a secret number. What is it?",
+  "am": "መንገድ ዳር ያለው ይህ ማሽን የባንክ ካርድና ሚስጥር ቁጥር ስናስገባ ገንዘብ ያወጣልናል። ምንድን ነው?"
+ },
+ "205": {
+  "en": "This money lives only inside computers, so you can never hold it. Bitcoin is one kind. What is it?",
+  "am": "ይህ ገንዘብ በኮምፒውተር ውስጥ ብቻ ይኖራል፤ በእጅ አይያዝም። ቢትኮይን አንዱ ዓይነቱ ነው። ምንድን ነው?"
+ },
+ "206": {
+  "en": "This kind grandpa told fairy tales to Ethiopian children on TV for many, many years. Who is he?",
+  "am": "እኚህ ደግ ሽማግሌ ለብዙ ዓመታት በቴሌቪዥን ለልጆች ተረት ይነግሩ ነበር። ማን ናቸው?"
+ },
+ "207": {
+  "en": "This yellow giraffe puppet loves learning and sings with kids on an Ethiopian TV show. Who is she?",
+  "am": "ይህች ቢጫ የቀጭኔ አሻንጉሊት መማር ትወዳለች፤ በቴሌቪዥን ከልጆች ጋር ትዘምራለች። ማን ናት?"
+ },
+ "208": {
+  "en": "This friend wears a big furry costume with round ears and colorful braids, and reads books and dances with kids. Who is it?",
+  "am": "ክብ ጆሮና ባለቀለም ሹሩባ ያለው ትልቅ ልብስ ለብሶ ከልጆች ጋር መጽሐፍ ያነባል፤ ይጨፍራል። ማን ነው?"
+ },
+ "209": {
+  "en": "This cheerful young man sings, plays games and makes children laugh in fun videos. Who is he?",
+  "am": "ይህ ደስተኛ ወጣት በሚያስደስቱ ቪዲዮዎች ከልጆች ጋር ይዘምራል፣ ይጫወታል፣ ያስቃል። ማን ነው?"
+ },
+ "210": {
+  "en": "They made this very game you are playing, and other fun learning apps for children. Who are they?",
+  "am": "አሁን የምትጫወተውን ይህን ጨዋታና ሌሎች የልጆች የትምህርት መተግበሪያዎችን የሠሩት እነማን ናቸው?"
+ },
+ "211": {
+  "en": "This businessman started Zemen Bank, a modern bank in Ethiopia. Who is he?",
+  "am": "እኚህ ነጋዴ በኢትዮጵያ ዘመን ባንክን መሠረቱ። ማን ናቸው?"
+ },
+ "212": {
+  "en": "This young woman made RIDE, a phone app to call a taxi in Ethiopia's capital city. Who is she?",
+  "am": "ይህች ወጣት ሴት በዋና ከተማችን ታክሲ በስልክ የሚጠራበትን «ራይድ» መተግበሪያ ሠራች። ማን ናት?"
+ },
+ "213": {
+  "en": "This very rich businessman owns many hotels and factories in Ethiopia, like the big Sheraton hotel. Who is he?",
+  "am": "እኚህ በጣም ሀብታም ነጋዴ በኢትዮጵያ ብዙ ሆቴሎችና ፋብሪካዎች አሏቸው፤ ትልቁ ሸራተን ሆቴልም የእሳቸው ነው። ማን ናቸው?"
+ },
+ "214": {
+  "en": "This Ethiopian businessman started a company that helps other companies share their news on TV and radio. Who is he?",
+  "am": "እኚህ ነጋዴ ድርጅቶች ምርታቸውን በቴሌቪዥንና በሬዲዮ እንዲያስተዋውቁ የሚረዳ ድርጅት መሠረቱ። ማን ናቸው?"
+ },
+ "215": {
+  "en": "This man was the boss of Ethiopian Airlines, the company with many big airplanes. Who is he?",
+  "am": "እኚህ ሰው ብዙ ትላልቅ አውሮፕላኖች ያሉትን የኢትዮጵያ አየር መንገድን መርተዋል። ማን ናቸው?"
+ },
+ "216": {
+  "en": "This man started Microsoft, the company that made Windows for computers. Who is he?",
+  "am": "እኚህ ሰው ለኮምፒውተር ዊንዶውስን የሠራውን ማይክሮሶፍት ድርጅት መሠረቱ። ማን ናቸው?"
+ },
+ "217": {
+  "en": "This man started Amazon, a huge internet shop that sends boxes to people's homes. Who is he?",
+  "am": "እኚህ ሰው ዕቃዎችን በኢንተርኔት ሸጦ ወደ ቤት የሚልከውን አማዞን ድርጅት መሠረቱ። ማን ናቸው?"
+ },
+ "218": {
+  "en": "This English teacher from China started Alibaba, a giant market on the internet. Who is he?",
+  "am": "እኚህ የቀድሞ የእንግሊዝኛ መምህር ከቻይና ናቸው፤ አሊባባ የተባለ ትልቅ የኢንተርኔት ገበያ መሠረቱ። ማን ናቸው?"
+ },
+ "219": {
+  "en": "This man made Facebook when he was a college student, so friends could share photos and messages. Who is he?",
+  "am": "እኚህ ሰው ተማሪ እያሉ ጓደኞች ፎቶና መልዕክት የሚለዋወጡበትን ፌስቡክ ሠሩ። ማን ናቸው?"
+ },
+ "220": {
+  "en": "This man leads Tesla, which makes electric cars, and SpaceX, which sends rockets into space. Who is he?",
+  "am": "እኚህ ሰው በኤሌክትሪክ የሚሄዱ መኪኖችንና ወደ ጠፈር የሚሄዱ ሮኬቶችን የሚሠሩ ድርጅቶችን ይመራሉ። ማን ናቸው?"
+ },
+ "221": {
+  "en": "This football player from Argentina won the World Cup in 2022 and many Golden Ball awards. Who is he?",
+  "am": "ይህ የአርጀንቲና ተጫዋች በ2022 የዓለም ዋንጫን አሸንፏል፤ ብዙ የወርቅ ኳስ ሽልማትም አግኝቷል። ማን ነው?"
+ },
+ "222": {
+  "en": "This player from Brazil won the World Cup three times and is called the King of Football. Who is he?",
+  "am": "ይህ የብራዚል ተጫዋች የዓለም ዋንጫን ሦስት ጊዜ አሸንፏል፤ «የእግር ኳስ ንጉሥ» ይባላል። ማን ነው?"
+ },
+ "223": {
+  "en": "This player from Portugal jumps high and shouts 'Siuuu!' when he scores a goal. Who is he?",
+  "am": "ይህ የፖርቱጋል ተጫዋች ጎል ሲያገባ ከፍ ብሎ ዘሎ «ሲውውው!» ይላል። ማን ነው?"
+ },
+ "224": {
+  "en": "This smiling player from Brazil did amazing magic tricks with the ball. Who is he?",
+  "am": "ይህ ፈገግተኛ የብራዚል ተጫዋች በኳስ አስደናቂ ጥበብ ያሳይ ነበር። ማን ነው?"
+ },
+ "225": {
+  "en": "This player from Argentina won the World Cup in 1986 and scored the famous 'Hand of God' goal. Who is he?",
+  "am": "ይህ የአርጀንቲና ተጫዋች በ1986 የዓለም ዋንጫን አሸንፏል፤ በእጁ ያገባው ጎል በጣም ዝነኛ ነው። ማን ነው?"
+ },
+ "226": {
+  "en": "This writer from long ago wrote many books of wise poems that teach good manners. Who is he?",
+  "am": "እኚህ የቀድሞ ደራሲ መልካም ጠባይ የሚያስተምሩ ብዙ የጥበብ ግጥሞችን ጽፈዋል። ማን ናቸው?"
+ },
+ "227": {
+  "en": "This writer wrote 'Fikir Eske Mekabir', one of the most famous Amharic novels. Who is he?",
+  "am": "እኚህ ደራሲ «ፍቅር እስከ መቃብር» የተባለውን ዝነኛ መጽሐፍ ጽፈዋል። ማን ናቸው?"
+ },
+ "228": {
+  "en": "This writer wrote 'Dertogada', a popular adventure novel loved by many readers. Who is he?",
+  "am": "ይህ ደራሲ ብዙ አንባቢዎች የወደዱትን «ዴርቶጋዳ» የተባለውን መጽሐፍ ጽፏል። ማን ነው?"
+ },
+ "229": {
+  "en": "This writer and journalist wrote the famous novel 'Oromay'. Who is he?",
+  "am": "እኚህ ደራሲና ጋዜጠኛ «ኦሮማይ» የተባለውን ዝነኛ መጽሐፍ ጽፈዋል። ማን ናቸው?"
+ },
+ "230": {
+  "en": "This writer is famous for funny poems and stories that make people laugh. Who is he?",
+  "am": "ይህ ደራሲ ሰዎችን በሚያስቁ ግጥሞቹና ታሪኮቹ ይታወቃል። ማን ነው?"
+ },
+ "231": {
+  "en": "This runner won Olympic gold in the marathon running barefoot, without shoes. Who is he?",
+  "am": "ይህ ሯጭ ያለ ጫማ በባዶ እግሩ ሮጦ የኦሊምፒክ ማራቶን ወርቅ አሸንፏል። ማን ነው?"
+ },
+ "232": {
+  "en": "This always-smiling runner won Olympic gold in 1996 and 2000, and later built hotels. Who is he?",
+  "am": "ይህ ሁልጊዜ ፈገግ የሚል ሯጭ በ1996 እና በ2000 የኦሊምፒክ ወርቅ አሸንፏል፤ በኋላም ሆቴሎችን ሠርቷል። ማን ነው?"
+ },
+ "233": {
+  "en": "This woman runner won three Olympic gold medals, and her sisters are famous runners too. Who is she?",
+  "am": "ይህች ሯጭ ሦስት የኦሊምፒክ ወርቅ አሸንፋለች፤ እህቶቿም ዝነኛ ሯጮች ናቸው። ማን ናት?"
+ },
+ "234": {
+  "en": "This man runner won three Olympic golds and set world records in the 5,000 and 10,000 metres. Who is he?",
+  "am": "ይህ ሯጭ ሦስት የኦሊምፒክ ወርቅ አሸንፏል፤ በ5ሺ እና በ10ሺ ሜትር የዓለም ክብረ ወሰን ሰብሯል። ማን ነው?"
+ },
+ "235": {
+  "en": "This woman runner won Olympic gold in the 5,000 metres two times, in 2004 and 2012. Who is she?",
+  "am": "ይህች ሯጭ በ5ሺ ሜትር ሁለት ጊዜ፣ በ2004 እና በ2012፣ የኦሊምፒክ ወርቅ አሸንፋለች። ማን ናት?"
+ },
+ "236": {
+  "en": "This ruler led Ethiopia to victory at the Battle of Adwa in 1896. Who is he?",
+  "am": "እኚህ ንጉሠ ነገሥት በ1888 ዓ.ም. ኢትዮጵያን በዓድዋ ድል መሩ። ማን ናቸው?"
+ },
+ "237": {
+  "en": "This army officer led Ethiopia's Derg government until 1991. Who is he?",
+  "am": "እኚህ የጦር መኮንን እስከ 1983 ዓ.ም. የደርግ መንግሥትን መሩ። ማን ናቸው?"
+ },
+ "238": {
+  "en": "This man was Prime Minister of Ethiopia from 1995 until 2012. Who is he?",
+  "am": "እኚህ ሰው ከ1987 እስከ 2004 ዓ.ም. የኢትዮጵያ ጠቅላይ ሚኒስትር ነበሩ። ማን ናቸው?"
+ },
+ "239": {
+  "en": "He was the last king of kings of Ethiopia and ruled for many years until 1974. Who is he?",
+  "am": "እኚህ የኢትዮጵያ የመጨረሻው ንጉሠ ነገሥት ናቸው፤ እስከ 1966 ዓ.ም. ለብዙ ዓመታት ገዝተዋል። ማን ናቸው?"
+ },
+ "240": {
+  "en": "This man became Prime Minister of Ethiopia in 2018 and won the Nobel Peace Prize. Who is he?",
+  "am": "እኚህ ሰው በ2010 ዓ.ም. የኢትዮጵያ ጠቅላይ ሚኒስትር ሆኑ፤ የኖቤል የሰላም ሽልማትም አግኝተዋል። ማን ናቸው?"
+ },
+ "241": {
+  "en": "This woman from Australia built a hospital in Ethiopia and helped heal thousands of mothers. Who is she?",
+  "am": "እኚህ የአውስትራሊያ ሴት በኢትዮጵያ ሆስፒታል ሠርተው በሺዎች የሚቆጠሩ እናቶችን አሳክመዋል። ማን ናቸው?"
+ },
+ "242": {
+  "en": "This actor from Austria started a charity that built schools and water wells in Ethiopia. Who is he?",
+  "am": "እኚህ የኦስትሪያ ተዋናይ በኢትዮጵያ ትምህርት ቤቶችና የውሃ ጉድጓዶችን የሠራ የበጎ አድራጎት ድርጅት መሠረቱ። ማን ናቸው?"
+ },
+ "243": {
+  "en": "This TV host has a famous talk show where he chats and laughs with special guests. Who is he?",
+  "am": "ይህ የቴሌቪዥን አቅራቢ እንግዶችን የሚያወያይበት ዝነኛ ፕሮግራም አለው። ማን ነው?"
+ },
+ "244": {
+  "en": "This kind woman raised thousands of children who had no parents, and was called their mother. Who is she?",
+  "am": "እኚህ ደግ እናት ወላጅ የሌላቸውን በሺዎች የሚቆጠሩ ልጆችን አሳድገዋል። ማን ናቸው?"
+ },
+ "245": {
+  "en": "This man started Mekedonia, a home that cares for old and sick people who lived on the street. Who is he?",
+  "am": "እኚህ ሰው በጎዳና የነበሩ አረጋውያንንና ሕሙማንን የሚንከባከበውን መቄዶንያ መሠረቱ። ማን ናቸው?"
+ },
+ "246": {
+  "en": "This very popular singer sang 'Tikur Sew', a song about the victory of Adwa. Who is he?",
+  "am": "ይህ በጣም ተወዳጅ ዘፋኝ ስለ ዓድዋ ድል «ጥቁር ሰው» የሚለውን ዘፈን ዘፍኗል። ማን ነው?"
+ },
+ "247": {
+  "en": "This woman is a famous Ethiopian singer, loved for her strong, beautiful voice for many years. Who is she?",
+  "am": "እኚህ ሴት ድምፃዊት በጠንካራና በሚያምር ድምፃቸው ለብዙ ዓመታት ተወዳጅ ናቸው። ማን ናቸው?"
+ },
+ "248": {
+  "en": "This music maker wrote tunes and arranged songs for many famous Ethiopian singers. Who is he?",
+  "am": "እኚህ ሙዚቀኛ ለብዙ ዝነኛ ድምፃውያን ዜማ ሠርተዋል፤ ሙዚቃም አቀናብረዋል። ማን ናቸው?"
+ },
+ "249": {
+  "en": "This singer from long ago had such a great voice that many call him Ethiopia's greatest singer. Who is he?",
+  "am": "እኚህ የቀድሞ ዘፋኝ በታላቅ ድምፃቸው ይታወቃሉ፤ ብዙዎች የኢትዮጵያ ታላቁ ድምፃዊ ይሏቸዋል። ማን ናቸው?"
+ },
+ "250": {
+  "en": "This musician is called the father of Ethio-jazz and plays an instrument you hit with sticks. Who is he?",
+  "am": "እኚህ ሙዚቀኛ «የኢትዮ ጃዝ አባት» ይባላሉ፤ በዱላ የሚመታ የሙዚቃ መሣሪያ ይጫወታሉ። ማን ናቸው?"
+ },
+ "251": {
+  "en": "This is the very first letter of the Amharic alphabet. It starts the word 'hager', country.",
+  "am": "ይህ የአማርኛ ፊደል የመጀመሪያው ፊደል ነው፤ «ሀገር» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "252": {
+  "en": "This Amharic letter comes second in the alphabet and starts the word 'lewz', peanut.",
+  "am": "ይህ ፊደል በአማርኛ ሁለተኛው ፊደል ነው፤ «ለውዝ» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "253": {
+  "en": "This Amharic letter starts the word 'metshaf', which means book. Which letter is it?",
+  "am": "ይህ ፊደል «መጽሐፍ» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "254": {
+  "en": "This Amharic letter starts the word 'rejim', which means tall. Which letter is it?",
+  "am": "ይህ ፊደል «ረጅም» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "255": {
+  "en": "This Amharic letter starts the word 'semay', which means sky. Which letter is it?",
+  "am": "ይህ ፊደል «ሰማይ» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "256": {
+  "en": "This is the first letter of the English alphabet. It starts the word 'apple'.",
+  "am": "ይህ የእንግሊዝኛ የመጀመሪያው ፊደል ነው፤ «አፕል» የሚለውን ቃል ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "257": {
+  "en": "This is the second English letter. It starts the word 'ball'.",
+  "am": "ይህ ሁለተኛው የእንግሊዝኛ ፊደል ነው፤ ኳስ ማለት የሆነውን «ቦል» ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "258": {
+  "en": "This is the third English letter. It starts the word 'cat'.",
+  "am": "ይህ ሦስተኛው የእንግሊዝኛ ፊደል ነው፤ ድመት ማለት የሆነውን «ካት» ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "259": {
+  "en": "This is the fourth English letter. It starts the word 'dog'.",
+  "am": "ይህ አራተኛው የእንግሊዝኛ ፊደል ነው፤ ውሻ ማለት የሆነውን «ዶግ» ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "260": {
+  "en": "This is the fifth English letter. It starts the word 'egg'.",
+  "am": "ይህ አምስተኛው የእንግሊዝኛ ፊደል ነው፤ እንቁላል ማለት የሆነውን «ኤግ» ይጀምራል። የትኛው ፊደል ነው?"
+ },
+ "261": {
+  "en": "This is the tiniest grain of all, and we use it to bake injera. What is it?",
+  "am": "ይህ ከሁሉም ያነሰ በጣም ትንሽ እህል ነው፤ እንጀራ እንጋግርበታለን። ምንድን ነው?"
+ },
+ "262": {
+  "en": "We grind this golden grain into white flour to make bread and pasta. What is it?",
+  "am": "ይህን እህል ፈጭተን በነጭ ዱቄቱ ዳቦና መኮሮኒ እንሠራለን። ምንድን ነው?"
+ },
+ "263": {
+  "en": "This grain grows as big yellow cobs; we roast them on the fire and eat them. What is it?",
+  "am": "ይህ እህል ቢጫ ፍሬ ያለው ትልቅ እሸት ያፈራል፤ እሸቱን በእሳት ጠብሰን እንበላለን። ምንድን ነው?"
+ },
+ "264": {
+  "en": "We use this grain to make crunchy kolo and the flour drink besso. What is it?",
+  "am": "ከዚህ እህል ቆሎና በሶ እንሠራለን። ምንድን ነው?"
+ },
+ "265": {
+  "en": "This grain grows in bunches on top of very tall stalks, and farmers chase away birds that eat it. What is it?",
+  "am": "ይህ እህል በረጅም አገዳ ጫፍ ላይ ዘለላ ሆኖ ያፈራል፤ ወፎች እንዳይበሉት ገበሬዎች ያባርራሉ። ምንድን ነው?"
+ },
+ "266": {
+  "en": "This person checks you when you are sick and gives you medicine. Who is it?",
+  "am": "ስንታመም መርምሮ መድኃኒት የሚሰጠን ማን ነው?"
+ },
+ "267": {
+  "en": "In class, this person helps you learn letters and numbers and gives you homework. Who is it?",
+  "am": "በክፍል ውስጥ ፊደልና ቁጥር የሚያሳውቀን፣ የቤት ሥራም የሚሰጠን ማን ነው?"
+ },
+ "268": {
+  "en": "This person plows the land with oxen and grows teff and vegetables. Who is it?",
+  "am": "በበሬ መሬት አርሶ ጤፍና አትክልት የሚያበቅል ማን ነው?"
+ },
+ "269": {
+  "en": "This person in uniform keeps us safe and catches thieves. Who is it?",
+  "am": "የደንብ ልብስ ለብሶ ደህንነታችንን የሚጠብቅና ሌባ የሚይዝ ማን ነው?"
+ },
+ "270": {
+  "en": "This person works in the kitchen and prepares tasty dishes for everyone to eat. Who is it?",
+  "am": "በኩሽና ውስጥ ጣፋጭ ወጥ ሠርቶ የሚያበላን ማን ነው?"
+ },
+ "271": {
+  "en": "This round toy is full of air; we kick it, throw it and bounce it. What is it?",
+  "am": "ይህ ክብ መጫወቻ በአየር የተሞላ ነው፤ በእግር እንመታዋለን፣ እንወረውረዋለን። ምንድን ነው?"
+ },
+ "272": {
+  "en": "This toy looks like a little girl; we dress her and comb her hair. What is it?",
+  "am": "ይህ መጫወቻ ትንሽ ሴት ልጅ ይመስላል፤ ልብስ እናለብሳታለን፣ ፀጉሯን እናበጥራለን። ምንድን ነው?"
+ },
+ "273": {
+  "en": "We tie this to a long string and fly it high in the windy sky. What is it?",
+  "am": "በረጅም ክር አስረን በነፋስ ወደ ሰማይ እናበረዋለን። ምንድን ነው?"
+ },
+ "274": {
+  "en": "This soft, furry toy looks like a big forest animal, and we hug it at bedtime. What is it?",
+  "am": "ይህ ለስላሳ ፀጉራም መጫወቻ ትልቅ የጫካ እንስሳ ይመስላል፤ ስንተኛ እናቅፈዋለን። ምንድን ነው?"
+ },
+ "275": {
+  "en": "This little thing has four wheels; we push it on the floor and say 'vroom!' What is it?",
+  "am": "ይህ ትንሽ ነገር አራት ጎማ አለው፤ መሬት ላይ እየገፋን «ቭሩም!» እንላለን። ምንድን ነው?"
+ },
+ "276": {
+  "en": "This old city in the east has a big wall around it, and people feed hyenas there at night. What is it?",
+  "am": "ይህ በምሥራቅ ያለ ጥንታዊ ከተማ በግንብ የተከበበ ነው፤ ማታ ማታ ጅቦች ይመገቡበታል። ምንድን ነው?"
+ },
+ "277": {
+  "en": "In this place, many very old tall stones stand in the ground with swords carved on them. What is it?",
+  "am": "በዚህ ቦታ ሰይፍ የተቀረጸባቸው ብዙ ጥንታዊ ሐውልቶች ቆመዋል። ምንድን ነው?"
+ },
+ "278": {
+  "en": "Here, farmers built walls like giant steps on the hills so they can grow food. What is it?",
+  "am": "በዚህ ቦታ ገበሬዎች ኮረብታ ላይ እንደ መሰላል ደረጃ ግንብ ሠርተው ያርሳሉ። ምንድን ነው?"
+ },
+ "279": {
+  "en": "This very old building in Tigray was made of big neat stones more than 2,500 years ago. What is it?",
+  "am": "ይህ በትግራይ የሚገኝ ሕንፃ ከ2500 ዓመት በፊት በትልልቅ ድንጋዮች የተሠራ በጣም ጥንታዊ ነው። ምንድን ነው?"
+ },
+ "280": {
+  "en": "This round old church in a forest by Lake Tana has walls covered with colorful paintings. What is it?",
+  "am": "ይህ በጣና ሐይቅ ዳር ጫካ ውስጥ ያለ ክብ ጥንታዊ ቤተ ክርስቲያን ግድግዳው በቀለማት ስዕሎች ያሸበረቀ ነው። ምንድን ነው?"
+ },
+ "281": {
+  "en": "This soft, round, spongy food with tiny holes is made from teff, and we eat stews on it. What is it?",
+  "am": "ይህ ከጤፍ የሚጋገር፣ ትናንሽ ቀዳዳዎች ያሉት ለስላሳ ክብ ምግብ ነው፤ ወጥ አድርገን እንበላዋለን። ምንድን ነው?"
+ },
+ "282": {
+  "en": "This spicy red holiday stew has boiled eggs in it. What is it?",
+  "am": "ይህ ቀይ፣ ቅመም ያለው ምግብ በበዓል ቀን ይሠራል፤ ውስጡ የተቀቀለ እንቁላል አለው። ምንድን ነው?"
+ },
+ "283": {
+  "en": "This dish is finely chopped beef mixed with butter and mitmita spice, often eaten with kocho. What is it?",
+  "am": "ይህ ምግብ በደንብ የተከተፈ ሥጋ ከቅቤና ሚጥሚጣ ጋር ነው፤ ብዙ ጊዜ በቆጮ ይበላል። ምንድን ነው?"
+ },
+ "284": {
+  "en": "This thick stew is made from chickpea powder and has no meat, so we eat it on fasting days. What is it?",
+  "am": "ይህ ወጥ ከሽምብራ ዱቄት ይሠራል፤ ሥጋ የለውም፤ በጾም ቀን እንበላዋለን። ምንድን ነው?"
+ },
+ "285": {
+  "en": "These are small pieces of meat fried in a hot pan with onion and green pepper. What is it?",
+  "am": "ይህ ከሽንኩርትና ከቃሪያ ጋር በጋለ ብረት ድስት ላይ የሚቁላላ ትንንሽ ቁርጥ ሥጋ ነው። ምንድን ነው?"
+ },
+ "286": {
+  "en": "On this September holiday, people light a big bonfire called Demera. What is it?",
+  "am": "በመስከረም በሚከበረው በዚህ በዓል ትልቅ ደመራ እናቀጣጥላለን። ምንድን ነው?"
+ },
+ "287": {
+  "en": "On this January holiday, people go to the water and get splashed to remember Jesus' baptism. What is it?",
+  "am": "በጥር በሚከበረው በዚህ በዓል ታቦታት ወደ ወንዝ ይወርዳሉ፤ ሰዎች ውሃ ይረጫሉ። ምንድን ነው?"
+ },
+ "288": {
+  "en": "This is the Ethiopian New Year, when children sing and give yellow flowers. What is it?",
+  "am": "ይህ የኢትዮጵያ አዲስ ዓመት ነው፤ ልጆች ቢጫ አበባ ይዘው ይዘምራሉ። ምንድን ነው?"
+ },
+ "289": {
+  "en": "At this Oromo thanksgiving holiday, people hold fresh green grass by a lake to say thank you. What is it?",
+  "am": "ይህ የኦሮሞ የምስጋና በዓል ነው፤ ሰዎች እርጥብ ሣር ይዘው በሐይቅ ዳር ያመሰግናሉ። ምንድን ነው?"
+ },
+ "290": {
+  "en": "In this August holiday, girls tie long grass around their waists and dance with drums. What is it?",
+  "am": "በነሐሴ በሚከበረው በዚህ በዓል ልጃገረዶች ረጅም ሣር በወገባቸው አስረው ከበሮ እየመቱ ይጨፍራሉ። ምንድን ነው?"
+ },
+ "291": {
+  "en": "Women wear this long white cotton outfit with colorful patterns on holidays. What is it?",
+  "am": "ሴቶች በበዓል ቀን የሚለብሱት ረጅም፣ ጥለት ያለው ነጭ የጥጥ ልብስ ነው። ምንድን ነው?"
+ },
+ "292": {
+  "en": "Women put this thin, light white cloth over their shoulders, especially when going to church. What is it?",
+  "am": "ሴቶች በተለይ ቤተ ክርስቲያን ሲሄዱ ትከሻቸው ላይ ጣል የሚያደርጉት ቀጭን ስስ ነጭ ልብስ ነው። ምንድን ነው?"
+ },
+ "293": {
+  "en": "This thick, warm white cotton wrap keeps you warm on cold nights. What is it?",
+  "am": "ይህ ወፍራም ነጭ የጥጥ ልብስ በብርድ ሌሊት ያሞቀናል። ምንድን ነው?"
+ },
+ "294": {
+  "en": "Men wrap this white cotton cloth over their shoulders on holidays. What is it?",
+  "am": "ወንዶች በበዓል ቀን ትከሻቸው ላይ የሚያጣፉት ነጭ የጥጥ ልብስ ነው። ምንድን ነው?"
+ },
+ "295": {
+  "en": "We wear these on our feet; they are made from leather or old tires. What is it?",
+  "am": "በእግራችን የምናደርገው፣ ከቆዳ ወይም ከአሮጌ ጎማ የሚሠራ ነው። ምንድን ነው?"
+ },
+ "296": {
+  "en": "This colorful woven basket table holds injera, and the family sits around it to eat. What is it?",
+  "am": "ይህ በቀለማት ያጌጠ የተሰፋ ማዕድ ነው፤ እንጀራ ይቀርብበታል፤ ቤተሰብ ዙሪያውን ተቀምጦ ይበላል። ምንድን ነው?"
+ },
+ "297": {
+  "en": "This big round flat clay plate sits over the fire, and we bake injera on it. What is it?",
+  "am": "ይህ ትልቅ ክብ የሸክላ ዕቃ እሳት ላይ ይቀመጣል፤ እንጀራ እንጋግርበታለን። ምንድን ነው?"
+ },
+ "298": {
+  "en": "This wide, flat woven tray is used to clean grain by tossing it in the air. What is it?",
+  "am": "ይህ ሰፊ ጠፍጣፋ የሣር ዕቃ እህል ለማበጠር ይጠቅማል። ምንድን ነው?"
+ },
+ "299": {
+  "en": "We use this heavy wooden bowl with a long stick to pound coffee and spices. What is it?",
+  "am": "ይህ ከባድ የእንጨት ዕቃ ነው፤ በዘነዘና ቡናና ቅመም እንደቁስበታለን። ምንድን ነው?"
+ },
+ "300": {
+  "en": "This big round clay pot keeps water cool at home. What is it?",
+  "am": "ይህ ትልቅ ክብ የሸክላ ማሰሮ በቤት ውስጥ ውሃ ያቀዘቅዛል። ምንድን ነው?"
+ }
+}
